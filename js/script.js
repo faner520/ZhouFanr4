@@ -5,7 +5,7 @@ $(document).ready(function(){
 	/* ---- Countdown timer ---- */
 
 	$('#counter').countdown({
-		timestamp : (new Date("2018-03-05 00:00:00")).getTime()
+		timestamp : (new Date("2030-03-05 00:00:00")).getTime()
 	});
 
 
